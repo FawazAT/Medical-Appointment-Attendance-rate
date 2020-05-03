@@ -30,9 +30,9 @@ Patient received SMS message(1) or not(0).
 ### 14 - No-show
 Patient missed the appointment(1) or not(0)
 
-Questions I'll be answering will be:
-1- Which gender tends to miss appointments more?
-2- Does elderly people adhere more to appintments?
-3- Does paitients with diagnoses adhere more?
-4- Does schalorship affect?¶
-5- Does recieving SMS message help people adhere?
+Questions I'll be answering will be:  
+1- Which gender tends to miss appointments more?  
+2- Does elderly people adhere more to appintments?  
+3- Does paitients with diagnoses adhere more?  
+4- Does schalorship affect?  
+5- Does recieving SMS message help people adhere?  
