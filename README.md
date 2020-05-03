@@ -1,6 +1,6 @@
 Project: Medical Appointment No Show Dataset
 
-Introduction
+Introduction:  
 My project is about a Medical Appointment No Show data set analyses. It is about patient showing to thier appointments or not.
 
 Data Dictionary:  
