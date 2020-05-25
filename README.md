@@ -1,9 +1,12 @@
-Project: Medical Appointment No Show Dataset
+# Project: Medical Appointment No Show Dataset
 
-Introduction:  
+## Introduction:  
 My project is about a Medical Appointment No Show data set analyses. It is about patient showing to thier appointments or not.
 
-Data Dictionary:  
+## Getting started
+Make sure you use the "Udacity-env.txt" environment to avoid any errors.
+
+## Data Dictionary:  
 ### 01 - PatientId
 Identification of a patient.  
 ### 02 - AppointmentID  
@@ -33,7 +36,7 @@ Patient received SMS message(1) or not(0).
 ### 14 - No-show  
 Patient missed the appointment(1) or not(0)  
 
-Questions I'll be answering will be:  
+## Questions I'll be answering will be:  
 1- Which gender tends to miss appointments more?  
 2- Does elderly people adhere more to appintments?  
 3- Does paitients with diagnoses adhere more?  
