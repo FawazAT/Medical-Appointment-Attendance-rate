@@ -1,7 +1,7 @@
 # Project: Medical Appointment No Show Dataset
 
 ## Introduction:  
-My project is about a Medical Appointment No Show data set analyses. It is about patient showing to thier appointments or not.
+My project is about a Medical Appointment No Show data set analyses. It is about patient showing to thier appointments or not. This project is from www.udacity.com DA nano-degree.
 
 ## Getting started
 Make sure you use the "Udacity-env.txt" environment to avoid any errors.
